@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "marcaId": "yamaha",
+    "modelo": "MT-07",
+    "categoria": "Naked",
+    "anio": 2024,
+    "cilindrada": 689,
+    "precio": 179900,
+    "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/2021_Black_Yamaha_MT-07.jpg/960px-2021_Black_Yamaha_MT-07.jpg",
+    "descripcion": "Naked de media cilindrada con motor bicilíndrico, ágil en ciudad y con mucha respuesta en carretera.",
+    "colores": [
+      "Negro",
+      "Azul",
+      "Gris"
+    ]
+  },
+  {
+    "id": 2,
+    "marcaId": "yamaha",
+    "modelo": "YZF-R3",
+    "categoria": "Deportiva",
+    "anio": 2024,
+    "cilindrada": 321,
+    "precio": 114900,
+    "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Yamaha_YZF-R3_2022_v1.jpg/960px-Yamaha_YZF-R3_2022_v1.jpg",
+    "descripcion": "Deportiva carenada de entrada con estilo inspirado en las R de competencia, ideal para empezar en la velocidad.",
+    "colores": [
+      "Azul",
+      "Negro",
+      "Rojo"
+    ]
+  },
+  {
+    "id": 3,
+    "marcaId": "vento",
+    "modelo": "Rocketman 300 Racing",
+    "categoria": "Naked",
+    "anio": 2024,
+    "cilindrada": 300,
+    "precio": 32999,
+    "imagen": "",
+    "descripcion": "Moto accesible de línea deportiva, pensada para quien quiere más potencia sin un precio elevado.",
+    "colores": [
+      "Negro",
+      "Rojo",
+      "Blanco"
+    ]
+  },
+  {
+    "id": 4,
+    "marcaId": "vento",
+    "modelo": "Nitrox 300 T3",
+    "categoria": "Deportiva",
+    "anio": 2024,
+    "cilindrada": 300,
+    "precio": 36999,
+    "imagen": "",
+    "descripcion": "Deportiva económica de 300 cc con diseño agresivo y buena relación entre precio y desempeño.",
+    "colores": [
+      "Negro",
+      "Azul",
+      "Naranja"
+    ]
+  },
+  {
+    "id": 5,
+    "marcaId": "benelli",
+    "modelo": "TNT 300",
+    "categoria": "Naked",
+    "anio": 2024,
+    "cilindrada": 300,
+    "precio": 69900,
+    "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Motocicleta_Benelli_TNT_300_2016.JPG/960px-Motocicleta_Benelli_TNT_300_2016.JPG",
+    "descripcion": "Naked con carácter italiano y chasis robusto, una opción atractiva para pasar de las motos pequeñas a algo más serio.",
+    "colores": [
+      "Negro",
+      "Rojo",
+      "Verde"
+    ]
+  },
+  {
+    "id": 6,
+    "marcaId": "benelli",
+    "modelo": "Leoncino 500",
+    "categoria": "Aventura",
+    "anio": 2024,
+    "cilindrada": 500,
+    "precio": 119900,
+    "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Benelli_Leoncino_500_in_Avellino.jpg/960px-Benelli_Leoncino_500_in_Avellino.jpg",
+    "descripcion": "Moto de estilo clásico con toques de scrambler, cómoda para uso diario y para paseos por carretera.",
+    "colores": [
+      "Gris",
+      "Negro",
+      "Blanco"
+    ]
+  },
+  {
+    "id": 7,
+    "marcaId": "suzuki",
+    "modelo": "V-Strom 650",
+    "categoria": "Aventura",
+    "anio": 2024,
+    "cilindrada": 645,
+    "precio": 189900,
+    "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Suzuki_V-Strom_650_XT_MY2018.jpg/960px-Suzuki_V-Strom_650_XT_MY2018.jpg",
+    "descripcion": "Moto de aventura reconocida por su comodidad y autonomía en viajes largos, con motor V2 muy confiable.",
+    "colores": [
+      "Amarillo",
+      "Negro",
+      "Gris"
+    ]
+  },
+  {
+    "id": 8,
+    "marcaId": "suzuki",
+    "modelo": "Gixxer SF 250",
+    "categoria": "Deportiva",
+    "anio": 2024,
+    "cilindrada": 249,
+    "precio": 69900,
+    "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/2021_Suzuki_Gixxer_SF_250_%2820211117%29.jpg/960px-2021_Suzuki_Gixxer_SF_250_%2820211117%29.jpg",
+    "descripcion": "Deportiva ligera con carenado completo y motor refrigerado por aceite, buena para ciudad y carretera.",
+    "colores": [
+      "Azul",
+      "Negro",
+      "Rojo"
+    ]
+  },
+  {
+    "id": 9,
+    "marcaId": "italika",
+    "modelo": "DM150",
+    "categoria": "Urbana",
+    "anio": 2024,
+    "cilindrada": 149,
+    "precio": 23999,
+    "imagen": "",
+    "descripcion": "Moto económica de uso diario, fácil de manejar y de mantener, muy común en las calles de México.",
+    "colores": [
+      "Negro",
+      "Rojo",
+      "Azul"
+    ]
+  },
+  {
+    "id": 10,
+    "marcaId": "italika",
+    "modelo": "FT150",
+    "categoria": "Trabajo",
+    "anio": 2024,
+    "cilindrada": 149,
+    "precio": 22999,
+    "imagen": "",
+    "descripcion": "Moto de trabajo resistente y de bajo consumo, pensada para reparto y transporte diario.",
+    "colores": [
+      "Negro",
+      "Rojo",
+      "Blanco"
+    ]
+  },
+  {
+    "id": 11,
+    "marcaId": "kawasaki",
+    "modelo": "Ninja 400",
+    "categoria": "Deportiva",
+    "anio": 2024,
+    "cilindrada": 399,
+    "precio": 129900,
+    "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Kawasaki_Ninja_400_June_2022.jpg/960px-Kawasaki_Ninja_400_June_2022.jpg",
+    "descripcion": "La deportiva de entrada más popular de Kawasaki, con un diseño que recuerda a las Ninja de mayor cilindrada.",
+    "colores": [
+      "Verde",
+      "Negro",
+      "Gris"
+    ]
+  },
+  {
+    "id": 12,
+    "marcaId": "kawasaki",
+    "modelo": "Z400",
+    "categoria": "Naked",
+    "anio": 2024,
+    "cilindrada": 399,
+    "precio": 109900,
+    "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/The_frontview_of_Kawasaki_Z400_mid-year_2019.jpg/960px-The_frontview_of_Kawasaki_Z400_mid-year_2019.jpg",
+    "descripcion": "Naked de aspecto agresivo basada en la Ninja 400, con posición erguida y buena respuesta en ciudad.",
+    "colores": [
+      "Verde",
+      "Negro",
+      "Gris"
+    ]
+  }
+]
