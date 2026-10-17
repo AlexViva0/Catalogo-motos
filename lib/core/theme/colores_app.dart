@@ -8,7 +8,7 @@ class ColoresApp {
   static const Color acentoClaro = Color(0xFFD9F7A0);
   static const Color acentoMedio = Color(0xFFBFE87A);
 
-  static const Color primario = Color(0xFF3E7B34);
+  static const Color primario = Color(0xFF2E7D32);
   static const Color sobrePrimario = Color(0xFFFFFFFF);
 
   static const Color textoPrincipal = Color(0xFF1E2F1A);
