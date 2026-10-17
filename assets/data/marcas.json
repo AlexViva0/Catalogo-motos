@@ -1,0 +1,44 @@
+[
+  {
+    "id": "yamaha",
+    "nombre": "Yamaha",
+    "pais": "Japón",
+    "logo": "assets/images/logos/yamaha.png",
+    "descripcion": "Fabricante japonés reconocido por sus motos deportivas y de calle, como la línea MT y la YZF-R."
+  },
+  {
+    "id": "vento",
+    "nombre": "Vento",
+    "pais": "México",
+    "logo": "assets/images/logos/vento.png",
+    "descripcion": "Marca con fuerte presencia en México, enfocada en motos accesibles de uso diario y deportivas de baja cilindrada."
+  },
+  {
+    "id": "benelli",
+    "nombre": "Benelli",
+    "pais": "Italia",
+    "logo": "assets/images/logos/benelli.jpg",
+    "descripcion": "Marca de origen italiano con diseños de estilo europeo, desde motos nakeds hasta modelos de aventura."
+  },
+  {
+    "id": "suzuki",
+    "nombre": "Suzuki",
+    "pais": "Japón",
+    "logo": "assets/images/logos/suzuki.png",
+    "descripcion": "Fabricante japonés con una gama que va de motos urbanas ligeras a motos de aventura de media cilindrada."
+  },
+  {
+    "id": "italika",
+    "nombre": "Italika",
+    "pais": "México",
+    "logo": "assets/images/logos/italika.jpg",
+    "descripcion": "La marca de motos más vendida de México, con modelos económicos para trabajo y transporte diario."
+  },
+  {
+    "id": "kawasaki",
+    "nombre": "Kawasaki",
+    "pais": "Japón",
+    "logo": "assets/images/logos/kawasaki.png",
+    "descripcion": "Fabricante japonés famoso por la línea Ninja y por sus motos deportivas de carácter agresivo."
+  }
+]
