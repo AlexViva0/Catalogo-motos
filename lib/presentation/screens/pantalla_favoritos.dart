@@ -22,7 +22,7 @@ class PantallaFavoritos extends StatelessWidget {
             return const EstadoVacio(
               icono: Icons.favorite_border,
               titulo: 'Todavía no hay favoritos',
-              mensaje: 'Marca una moto con el corazón.',
+              mensaje: 'Toca el corazón de una moto y aparecerá en esta lista.',
             );
           }
           return ListView.separated(
