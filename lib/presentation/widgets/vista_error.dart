@@ -30,7 +30,7 @@ class VistaError extends StatelessWidget {
             const SizedBox(height: 16),
             ElevatedButton(
               onPressed: alReintentar,
-              child: const Text('Intentar otra vez'),
+              child: const Text('Intentar de nuevo'),
             ),
           ],
         ),
