@@ -21,8 +21,8 @@ class PantallaFavoritos extends StatelessWidget {
           if (motos.isEmpty) {
             return const EstadoVacio(
               icono: Icons.favorite_border,
-              titulo: 'Aún no tienes favoritos',
-              mensaje: 'Toca el corazón de una moto para guardarla aquí.',
+              titulo: 'Tu lista está vacía',
+              mensaje: 'Toca el corazón de una moto y aparecerá en esta lista.',
             );
           }
           return ListView.separated(
