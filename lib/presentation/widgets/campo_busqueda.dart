@@ -9,7 +9,7 @@ class CampoBusqueda extends StatelessWidget {
   const CampoBusqueda({
     super.key,
     required this.alCambiar,
-    this.pista = 'Buscar por modelo o marca',
+    this.pista = 'Buscar moto o marca',
   });
 
   @override
