@@ -5,7 +5,7 @@ import '../../core/theme/colores_app.dart';
 class VistaCarga extends StatelessWidget {
   final String mensaje;
 
-  const VistaCarga({super.key, this.mensaje = 'Cargando catálogo...'});
+  const VistaCarga({super.key, this.mensaje = 'Cargando, espera un momento...'});
 
   @override
   Widget build(BuildContext context) {
